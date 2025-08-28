@@ -1,1 +1,2 @@
-Gustavo Andrés Sánchez Manriquez
+if(Light== RED)
+Turn on servo
