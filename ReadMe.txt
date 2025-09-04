@@ -1,2 +1,3 @@
-if(Light== RED)
-Turn on servo
+MOVF 0x00
+NOP
+NOP
